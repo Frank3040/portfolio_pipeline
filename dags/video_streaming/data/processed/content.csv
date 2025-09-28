@@ -1,0 +1,301 @@
+content_id,title,type,rating,production_budget
+M001,Advanced World,movie,3.5,220088717
+M002,Neural Signal,movie,2.8,23593231
+M003,An Stream,movie,1.9,83166461
+M004,Binary Journey,movie,3.0,46298444
+M005,Lost Data,movie,4.7,67293750
+M006,Ultimate Mystery,movie,1.1,234348717
+M007,Code,movie,3.1,35028167
+M008,Digital Protocol,movie,3.7,49545701
+M009,Tale,movie,4.4,146895476
+M010,An Code 2,movie,3.5,224671521
+M011,Algorithm,movie,2.7,20512281
+M012,Quest 5,movie,2.4,36408859
+M013,Mystery,movie,1.6,16064411
+M014,Kingdom,movie,4.2,202395249
+M015,Quantum Code,movie,2.4,227198245
+M016,A Database,movie,3.0,6729979
+M017,Adventure,movie,4.6,50839665
+M018,Mystery,movie,3.6,158431993
+M019,Final Stream,movie,2.3,114952801
+M020,Quest,movie,3.1,250548961
+M021,Tale,movie,4.9,62478620
+M022,Quantum System,movie,4.7,73128204
+M023,Smart Story,movie,3.3,12509378
+M024,First Mystery,movie,4.2,146907831
+M025,An Protocol,movie,4.0,49021276
+M026,Lost Kingdom,movie,2.6,90625130
+M027,Quantum Story,movie,1.2,150283990
+M028,Final Kingdom,movie,1.7,8816404
+M029,System,movie,1.8,30738350
+M030,Database 4,movie,1.3,100987742
+M031,Empire,movie,4.9,184475405
+M032,A Code,movie,3.4,283617949
+M033,Dark Stream,movie,2.9,193790052
+M034,Stream,movie,4.9,122112109
+M035,Lost System 5,movie,1.8,2127388
+M036,Quest,movie,2.9,12670028
+M037,Quest,movie,1.2,33987762
+M038,Data,movie,3.6,15316213
+M039,Lost Cloud,movie,2.8,202148811
+M040,Quest,movie,2.2,1600669
+M041,Infinite Story,movie,4.2,186923029
+M042,Advanced System 2,movie,3.3,42856949
+M043,Hidden Empire,movie,4.1,128140036
+M044,Cyber Cloud 4,movie,3.3,8120314
+M045,First Database,movie,3.1,182644208
+M046,Binary Signal,movie,1.9,24000248
+M047,Story,movie,3.3,18448764
+M048,Tale,movie,4.9,59289648
+M049,Neural Cloud 2,movie,3.7,135871052
+M050,Infinite Protocol,movie,2.0,39370044
+M051,A Algorithm,movie,4.8,106311259
+M052,Adventure,movie,3.9,193008798
+M053,Infinite Empire,movie,1.9,296179703
+M054,Binary Stream,movie,4.6,122289319
+M055,Infinite Adventure,movie,3.6,37909361
+M056,Binary Journey,movie,3.6,140493022
+M057,Journey,movie,1.9,213938522
+M058,Last Quest,movie,3.6,20440772
+M059,System,movie,1.5,80650718
+M060,Dark Kingdom,movie,4.9,107714280
+M061,An Cloud,movie,4.6,181262622
+M062,Secret Empire,movie,1.1,45559979
+M063,Neural Cloud,movie,4.5,52788131
+M064,Virtual Adventure,movie,4.4,99191442
+M065,Final Story,movie,1.9,92334091
+M066,Last World,movie,4.1,232940727
+M067,Smart World,movie,4.0,233435578
+M068,Protocol,movie,4.2,100149438
+M069,Last World,movie,4.0,39301506
+M070,Lost Adventure,movie,1.7,218689270
+M071,Cyber Tale,movie,4.3,139504878
+M072,Secret Signal,movie,1.6,8844926
+M073,System,movie,1.3,167251523
+M074,Digital Database,movie,3.2,29227591
+M075,Neural Journey,movie,4.2,296040480
+M076,The Journey,movie,2.4,27396354
+M077,Signal,movie,4.5,203590741
+M078,Algorithm,movie,1.6,13524987
+M079,Secret Algorithm,movie,3.8,46138210
+M080,Digital Empire,movie,3.5,49787105
+M081,A Empire,movie,3.2,21843745
+M082,Protocol,movie,4.0,182661326
+M083,Final World,movie,1.1,9691644
+M084,The Matrix,movie,2.2,49636072
+M085,Lost Adventure,movie,4.4,272623780
+M086,Data,movie,2.3,25908762
+M087,A Data,movie,2.7,251619945
+M088,Data,movie,1.2,41797064
+M089,Hidden Data,movie,3.0,283777035
+M090,Network,movie,2.6,41347239
+M091,Empire,movie,2.5,10832696
+M092,Infinite Code,movie,2.1,16160068
+M093,Digital Code,movie,3.8,9974518
+M094,Matrix,movie,1.2,250209902
+M095,Digital Tale,movie,3.8,27080387
+M096,Final Mystery 5,movie,2.0,134466599
+M097,Dark Stream,movie,4.9,65465290
+M098,Digital Data,movie,2.6,41421645
+M099,Algorithm,movie,2.3,195742202
+M100,Mystery,movie,2.5,1818805
+M101,System,movie,2.9,122138266
+M102,A Algorithm,movie,2.8,81782662
+M103,Quantum Tale,movie,4.6,287247899
+M104,Binary World,movie,3.3,270713263
+M105,Binary Tale,movie,2.3,16851330
+M106,Lost Signal,movie,1.7,12650123
+M107,Lost Mystery,movie,1.9,237678250
+M108,System,movie,1.8,261117605
+M109,Dark System,movie,3.3,27286533
+M110,Matrix,movie,1.3,15437541
+M111,Advanced Journey,movie,3.6,34267191
+M112,A Code,movie,4.6,112473878
+M113,Data,movie,2.6,26232769
+M114,Digital World,movie,2.1,296850537
+M115,Tale 3,movie,2.7,6951330
+M116,Lost Journey,movie,3.3,10434415
+M117,Database,movie,2.2,37551639
+M118,Hidden Protocol,movie,4.7,89066888
+M119,Smart Story,movie,4.1,142440797
+M120,Journey,movie,4.8,255815540
+M121,Cyber Story,movie,1.4,174934483
+M122,Tale,movie,1.4,4637872
+M123,A Algorithm,movie,3.1,46274627
+M124,The System,movie,3.4,46362993
+M125,Database 4,movie,3.3,279552120
+M126,Database,movie,4.9,163474360
+M127,Quantum Code,movie,3.9,16053983
+M128,Empire,movie,3.7,15349432
+M129,Binary Quest 3,movie,3.7,216148457
+M130,Algorithm,movie,2.3,1748841
+M131,Digital Database,movie,1.8,23269808
+M132,Smart Signal,movie,4.4,270095317
+M133,The Matrix,movie,4.7,121357321
+M134,Virtual Protocol 3,movie,1.6,254284149
+M135,Virtual Protocol,movie,2.3,191946883
+M136,Binary Kingdom,movie,2.9,28422454
+M137,Database,movie,3.9,22921942
+M138,An Code,movie,1.6,242376448
+M139,Last Protocol,movie,4.7,236093691
+M140,Advanced Data 2,movie,1.8,7308564
+M141,First Code,movie,4.3,53315034
+M142,An Tale,movie,1.9,133696368
+M143,Neural Tale,movie,2.0,4910257
+M144,Digital Code,movie,1.1,46568581
+M145,System,movie,4.4,75165152
+M146,Tale,movie,2.5,28743877
+M147,Network,movie,1.9,27059829
+M148,An Cloud,movie,1.8,224978395
+M149,Hidden Empire,movie,2.4,104294448
+M150,Code,movie,1.1,20317587
+M151,Advanced Data,movie,1.4,296809510
+M152,The System,movie,1.8,76361170
+M153,The Signal,movie,4.3,61937512
+M154,Smart Quest,movie,2.2,255057356
+M155,Protocol 5,movie,3.5,29320240
+M156,Hidden Empire,movie,2.8,126796962
+M157,Lost Signal,movie,4.4,82768207
+M158,Stream,movie,2.1,10347685
+M159,Digital Mystery,movie,2.5,181419290
+M160,The Network,movie,2.5,32197439
+M161,Binary Algorithm,movie,2.9,35306105
+M162,Virtual Protocol 2,movie,4.4,120658510
+M163,Infinite Adventure,movie,3.2,34444459
+M164,Tale 4,movie,3.7,46746241
+M165,Last Network,movie,1.8,12128676
+M166,Neural Story,movie,3.1,38889369
+M167,Advanced Cloud,movie,4.0,224823877
+M168,Final Cloud,movie,2.6,40925209
+M169,Final Code,movie,1.2,72369601
+M170,Neural Story,movie,1.7,189280736
+M171,Lost Empire,movie,2.7,120092424
+M172,Signal,movie,2.3,93882546
+M173,Tale 3,movie,1.6,126147515
+M174,Lost System,movie,3.9,278366263
+M175,Infinite Cloud,movie,4.0,11313895
+M176,Secret Data,movie,4.3,262601670
+M177,Advanced Network,movie,2.0,226736717
+M178,The Network,movie,4.2,115155790
+M179,Virtual Tale,movie,3.7,108238184
+M180,Advanced Data,movie,2.5,20626435
+M181,Ultimate World,movie,1.6,46411246
+M182,Cyber Story,movie,4.7,190865120
+M183,Network,movie,2.7,4322854
+M184,A Database,movie,2.1,15029206
+M185,Neural Journey 3,movie,3.5,18997108
+M186,The Algorithm,movie,1.4,19753636
+M187,Virtual Code,movie,1.4,41427116
+M188,The Mystery,movie,3.2,63511442
+M189,Final Protocol,movie,2.1,39609619
+M190,Lost Empire,movie,4.3,59509863
+M191,Advanced Empire,movie,4.3,227239256
+M192,Advanced Database,movie,3.9,13502962
+M193,An Kingdom,movie,2.4,197743810
+M194,Final Quest,movie,3.6,241573272
+M195,Lost Protocol,movie,3.7,14354168
+M196,Journey,movie,1.7,218028074
+M197,Stream,movie,2.2,68878404
+M198,A Algorithm,movie,1.2,35458430
+M199,An Quest,movie,2.0,175499046
+M200,Digital World,movie,3.7,25039601
+S001,The Investigators,series,1.3,44041273
+S002,The Investigators,series,4.4,126866932
+S003,System Archives,series,2.8,56625408
+S004,Cyber Archives,series,2.2,47182636
+S005,The Scientists,series,4.4,327965922
+S006,The Scientists,series,1.5,10288145
+S007,The Analysts,series,1.2,58423635
+S008,Intelligence Cases,series,3.8,65923441
+S009,The Investigators,series,3.4,25451448
+S010,The Detectives,series,2.2,30273595
+S011,Tech Cases,series,4.9,114902788
+S012,Code Engineer Files,series,4.1,208347149
+S013,The Analysts,series,3.2,77414168
+S014,System Master Records,series,1.7,396719513
+S015,System Analyst Logs,series,1.7,86131629
+S016,The Investigators,series,2.1,68265098
+S017,Data Expert Chronicles,series,2.4,137756173
+S018,Code Files,series,1.5,19314996
+S019,Analytics Archives,series,2.2,456731471
+S020,The Analysts,series,2.2,30466126
+S021,The Specialists,series,3.0,98820528
+S022,The Investigators,series,2.1,197105748
+S023,The Engineers,series,2.6,37455594
+S024,The Detectives,series,1.3,79333132
+S025,Digital Master Files,series,3.7,65631668
+S026,Analytics Chronicles,series,3.9,85960997
+S027,The Specialists,series,3.6,17641045
+S028,The Experts,series,1.6,15293760
+S029,Digital Diaries,series,1.8,68389735
+S030,The Scientists,series,4.5,400393000
+S031,The Analysts,series,4.2,415835464
+S032,Tech Reports,series,1.7,95839378
+S033,The Experts,series,3.0,19617530
+S034,Tech Master Records,series,4.2,210303817
+S035,Cloud Chronicles,series,1.5,32588164
+S036,Intelligence Logs,series,2.2,36342177
+S037,The Experts,series,1.3,6067543
+S038,The Masters,series,4.3,228468542
+S039,The Experts,series,3.2,55906418
+S040,Cyber Archives,series,4.4,467178636
+S041,The Analysts,series,2.0,8921678
+S042,The Analysts,series,4.9,470357872
+S043,The Specialists,series,1.4,352436532
+S044,Cloud Reports,series,3.4,78560006
+S045,The Scientists,series,2.7,57056031
+S046,Code Archives,series,2.2,292316186
+S047,Intelligence Stories,series,2.6,37685089
+S048,The Experts,series,1.5,30228151
+S049,Cyber Archives,series,3.1,58765760
+S050,The Experts,series,4.6,291245363
+S051,Cyber Diaries,series,4.3,368102832
+S052,Intelligence Engineer Records,series,1.2,60906031
+S053,Analytics Archives,series,2.2,41543684
+S054,Intelligence Chronicles,series,2.0,14694325
+S055,The Scientists,series,1.5,28230331
+S056,The Scientists,series,1.0,93373094
+S057,Cyber Chronicles,series,4.1,499744453
+S058,Data Logs,series,1.2,66154832
+S059,The Scientists,series,5.0,280522409
+S060,The Detectives,series,3.1,143304276
+S061,Tech Master Files,series,2.9,99027997
+S062,Digital Chronicles,series,2.9,127511414
+S063,Digital Archives,series,4.0,382523478
+S064,The Masters,series,3.6,35573482
+S065,The Detectives,series,3.0,278507421
+S066,The Experts,series,2.9,63619939
+S067,System Files,series,2.4,73813095
+S068,Analytics Cases,series,3.3,69011874
+S069,Network Chronicles,series,4.1,216309090
+S070,The Analysts,series,4.0,18764279
+S071,Code Logs,series,4.7,299747822
+S072,The Scientists,series,3.8,27120174
+S073,The Engineers,series,1.6,55156195
+S074,The Specialists,series,4.1,141489146
+S075,The Investigators,series,3.6,40425131
+S076,The Analysts,series,1.9,87863196
+S077,Cloud Investigator Reports,series,3.3,22963861
+S078,Analytics Investigator Cases,series,4.3,448231718
+S079,The Engineers,series,4.0,30474598
+S080,The Specialists,series,2.5,18826461
+S081,The Masters,series,1.2,50151349
+S082,Data Detective Chronicles,series,4.3,433505371
+S083,Tech Stories,series,5.0,383865974
+S084,Data Logs,series,1.5,5130193
+S085,Network Chronicles,series,4.3,470703264
+S086,The Engineers,series,4.8,410892898
+S087,Tech Master Reports,series,3.4,490588000
+S088,The Masters,series,2.1,187164054
+S089,The Detectives,series,1.5,59438147
+S090,The Engineers,series,5.0,365233645
+S091,The Analysts,series,1.7,43450423
+S092,Digital Specialist Logs,series,3.6,393217790
+S093,Tech Chronicles,series,4.6,311117522
+S094,The Experts,series,3.7,31623945
+S095,The Masters,series,1.9,18661547
+S096,Intelligence Records,series,2.4,23847484
+S097,The Masters,series,1.6,40419226
+S098,Analytics Scientist Diaries,series,4.8,174510618
+S099,Network Stories,series,2.7,22408059
+S100,Digital Records,series,1.5,96348351
