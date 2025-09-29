@@ -40,6 +40,7 @@ This project focuses on analyzing the performance of a **video streaming platfor
 ---
 
 ## Directory Overview
+~~~
 └── dags/
     └── video_streaming/
         ├── dashboard/
@@ -50,6 +51,7 @@ This project focuses on analyzing the performance of a **video streaming platfor
         ├── scripts/
         ├── utils/
         └── dag.py
+~~~
 
 ---
 
