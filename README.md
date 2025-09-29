@@ -60,6 +60,9 @@ The following tree diagram shows the content of the repository and indicates whe
 
 ---
 
+## Architecture
+![Shows diagram that represents the architecture of this project](images/portfolio_diagram.png)
+
 
 ## Objectives
 
