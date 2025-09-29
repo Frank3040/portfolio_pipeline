@@ -43,7 +43,7 @@ This project focuses on analyzing the performance of a **video streaming platfor
 The following tree diagram shows the content of the repository and indicates where each part of the project is:
 ~~~
 ── dags/
-│   └── spotify_/
+│   └── video_streaming_pipeline/
 │       ├── dashboard/
 │       ├── data/
 │       ├── docs/
