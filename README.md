@@ -39,6 +39,21 @@ This project focuses on analyzing the performance of a **video streaming platfor
 
 ---
 
+## Directory Overview
+└── dags/
+    └── video_streaming/
+        ├── dashboard/
+        ├── data/
+        ├── docs/
+        ├── nosql/
+        ├── sql/
+        ├── scripts/
+        ├── utils/
+        └── dag.py
+
+---
+
+
 ## Objectives
 
 ### Main Objectives
