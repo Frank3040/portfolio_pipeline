@@ -40,17 +40,22 @@ This project focuses on analyzing the performance of a **video streaming platfor
 ---
 
 ## Directory Overview
+The following tree diagram shows the content of the repository and indicates where each part of the project is:
 ~~~
-└── dags/
-    └── video_streaming/
-        ├── dashboard/
-        ├── data/
-        ├── docs/
-        ├── nosql/
-        ├── sql/
-        ├── scripts/
-        ├── utils/
-        └── dag.py
+── dags/
+│   └── spotify_/
+│       ├── dashboard/
+│       ├── data/
+│       ├── docs/
+│       ├── nosql/
+│       ├── sql/
+│       ├── scripts/
+│       ├── utils/
+│       └── dag.py
+├── config/
+├── logs/
+├── init-scripts/
+└── plugins/
 ~~~
 
 ---
