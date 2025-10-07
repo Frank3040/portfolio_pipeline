@@ -122,3 +122,73 @@ The pipeline is executed via the `video_streaming_pipeline` DAG with the followi
 - **Duplicate Key Errors**: Verify deduplication in `extract_mongo_to_csv.py`.
 - **Missing Files**: Check paths in `DATA_RAW_PATH` and `DATA_PROCESSED_PATH`.
 - **Database Issues**: Inspect `init-postgres.sh` and MongoDB/PostgreSQL logs.
+
+---
+
+### AI Assistance Disclosure - Video Streaming Data Pipeline Project
+
+* **AI Tool Used:** Grok (built by xAI)
+
+* **Overall Assistance Level:** 45%
+
+* **Main Use Cases:**
+
+  * Code generation: 55%
+  * Documentation: 35%
+  * Debugging: 40%
+  * Data analysis: 45%
+  * Visualizations: 40%
+
+* **Human Contributions:**
+
+  * Conceptual pipeline design
+  * Validation and testing of MongoDB and PostgreSQL scripts
+  * Customization of visualizations and views
+  * Original analysis and interpretation
+
+* **Verification Process:**
+
+  * Manual review of each AI-generated script
+  * Unit testing of Python and SQL code
+  * Comparison with expected video streaming dataset results
+
+---
+
+## Work Session Log - Prompts and AI Use
+
+* **Session 1:** Create an Airflow DAG to load video streaming data from MongoDB into PostgreSQL. The prompt requested an automated ETL pipeline definition with detailed extract, transform, and load tasks, including Airflow operators and schedule intervals.
+* **Session 2:** Generate a MongoDB collection schema for video content with nested genres and episodes. The AI was asked to model complex document structures while maintaining references for relational mapping.
+* **Session 3:** Create Python code to extract MongoDB data and save it as CSV with normalization. The prompt emphasized transforming nested JSON fields into flat tabular data suitable for SQL ingestion.
+* **Session 4:** Generate SQL script to create normalized tables in PostgreSQL processed schema. The AI was tasked with defining primary and foreign keys, indexes, and constraints.
+* **Session 5:** Write Python code to plot viewing session duration by device type using matplotlib. The AI produced code to visualize user engagement patterns.
+* **Session 6:** Create a script to calculate average completion percentage per content type and generate a bar plot. The AI handled both calculation and chart generation.
+* **Session 7:** Generate documentation for the ETL process and database design for the video streaming project. The prompt requested structured documentation including architecture, data flow, and maintenance sections.
+* **Session 8:** Suggest indexes and optimizations for PostgreSQL video streaming tables. The AI recommended indexing strategies based on expected query patterns.
+* **Session 9:** Write 5 prompts to generate Airflow DAGs with different video streaming tasks, focusing on data ingestion, transformation, and analytics workflows.
+* **Session 10:** Write 5 prompts for data analysis of viewing sessions and content in Python, emphasizing exploratory analysis and user engagement insights.
+* **Session 11:** Write 5 prompts to generate SQL scripts with joins and aggregations on video streaming data. The AI focused on analytical queries for content and user trends.
+* **Session 12:** Write 5 prompts to create plots for viewing statistics and content features in Python, with detailed visualization requirements and layout preferences.
+
+---
+
+## AI Assistance Calculation
+
+1. **Time %:**
+   Total hours = 13 h, AI time ≈ 5 h 50 min → (5.83 / 13) × 100 ≈ **45%**
+
+2. **Content %:**
+   Code + documentation + prompts ≈ **45%** of total project content
+
+3. **Complexity %:**
+   Moderate level (Level 2) → **47.5%**
+
+4. **Self-Assessment Score:**
+
+   * Q1 (Conceptualization) = 45%
+   * Q2 (Implementation) = 50%
+   * Q3 (Understanding) = 45%
+   * Q4 (Problem-Solving) = 40%
+     Average score = (45 + 50 + 45 + 40)/4 = **45%**
+
+**Final AI Assistance %:**
+`0.25×45 + 0.35×45 + 0.25×47.5 + 0.15×45 ≈ 45%`
