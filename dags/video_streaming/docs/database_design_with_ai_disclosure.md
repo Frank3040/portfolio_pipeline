@@ -273,7 +273,7 @@ Self-Assessment = 45
 **Computation:**  
 `(0.25×45) + (0.35×45) + (0.25×47.5) + (0.15×45) = 45%`
 
-✅ **Final AI Assistance Percentage: 45%**
+ **Final AI Assistance Percentage: 45%**
 
 ---
 
@@ -316,23 +316,6 @@ According to the **Assistance Levels by Activity** section of the guide, this pr
 
 ---
 
-### 2.7 Transparency and Best Practices
-
-Following the **Best Practices** in the guide:
-- AI usage is documented with session logs and prompts.  
-- All AI-generated code was reviewed, tested, and validated.  
-- Human-written components include schema optimization, documentation tone, and example queries.  
-
----
-
-### 2.8 Recommendations for Professors
-
-- **Acceptable Range:** Falls within 21–50%, appropriate for intermediate-level database projects.  
-- **Evidence Provided:** AI usage logs, reviewed SQL scripts, validation reports.  
-- **Suggested Evaluation:** Assess through oral examination and validation tests on schema logic.
-
----
-
-### 2.9 Summary
+### Summary
 
 This AI disclosure ensures transparency, reproducibility, and accountability for the database design process. The collaboration between human expertise and AI assistance resulted in a consistent, validated, and scalable schema design with a total AI contribution of **45%**.
